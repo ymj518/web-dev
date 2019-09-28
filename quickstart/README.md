@@ -2,4 +2,4 @@
   [](https://github.com/ymj518/web-dev/blob/master/quickstart/images/denglu.jpg?raw=true)
 <br>
 <h2>登陆成功<h2>
-  https://github.com/ymj518/web-dev/blob/master/quickstart/images/gerenzhongxin.jpg?raw=true
+
